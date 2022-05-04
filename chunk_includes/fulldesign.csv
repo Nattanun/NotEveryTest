@@ -1,0 +1,4 @@
+﻿Item,Group,MainCond,Condition,ContextAudioFile,ContextImageFile,AudioFile,ImageFile
+1,1,Critical,OnlyExist,01_01.wav,G1_01_01.jpg,01_02.wav,G1_01_02.jpg
+2,1,Filler,FSomeAction,02_01.wav,G1_02_01.jpg,02_02.wav,G1_02_02.jpg
+3,1,Critical,NoAction,03_01.wav,G1_03_01.jpg,03_02.wav,G1_03_02.jpg
